@@ -32,16 +32,6 @@ When I'm not coding, you'll find me watching tech YouTube at 2x speed or hunting
 
 ---
 
-### 👩‍💻 Work Experience
-
-| Company | Role | Duration |
-|---------|------|----------|
-| **Oracle Health** | Java Full Stack Developer | 2025 - Present |
-| **BNY Mellon** | Java Full Stack Developer | 2024 - 2025 |
-| **Virtusa (American Express)** | Java Full Stack Developer | 2021 - 2023 |
-| **Hitachi Energy** | Java Developer | 2020 - 2021 |
-
----
 
 ### 🌱 Currently Learning
 
